@@ -30,6 +30,10 @@
       <Name>ReportBase.rdl</Name>
       <FullPath>ReportBase.rdl</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Employee_Sales_Summary.rdl</Name>
+      <FullPath>Employee_Sales_Summary.rdl</FullPath>
+    </ProjectItem>
   </Reports>
   <Configurations>
     <Configuration>
