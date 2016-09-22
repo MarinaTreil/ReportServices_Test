@@ -7,8 +7,30 @@
       <FullPath>MainSource.rds</FullPath>
     </ProjectItem>
   </DataSources>
-  <DataSets />
-  <Reports />
+  <DataSets>
+    <ProjectItem>
+      <Name>EmployeeSalesDetail.rsd</Name>
+      <FullPath>EmployeeSalesDetail.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>EmployeeSalesYearOverYear.rsd</Name>
+      <FullPath>EmployeeSalesYearOverYear.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>EmpSalesMonth.rsd</Name>
+      <FullPath>EmpSalesMonth.rsd</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>SalesEmployees.rsd</Name>
+      <FullPath>SalesEmployees.rsd</FullPath>
+    </ProjectItem>
+  </DataSets>
+  <Reports>
+    <ProjectItem>
+      <Name>ReportBase.rdl</Name>
+      <FullPath>ReportBase.rdl</FullPath>
+    </ProjectItem>
+  </Reports>
   <Configurations>
     <Configuration>
       <Name>Debug</Name>
